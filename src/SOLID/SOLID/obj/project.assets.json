@@ -460,11 +460,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Portfolio\\SOLID\\SOLID\\SOLID\\SOLID.csproj",
+      "projectUniqueName": "C:\\Portfolio\\SOLID\\src\\SOLID\\SOLID\\SOLID.csproj",
       "projectName": "SOLID",
-      "projectPath": "C:\\Portfolio\\SOLID\\SOLID\\SOLID\\SOLID.csproj",
+      "projectPath": "C:\\Portfolio\\SOLID\\src\\SOLID\\SOLID\\SOLID.csproj",
       "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
-      "outputPath": "C:\\Portfolio\\SOLID\\SOLID\\SOLID\\obj\\",
+      "outputPath": "C:\\Portfolio\\SOLID\\src\\SOLID\\SOLID\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
